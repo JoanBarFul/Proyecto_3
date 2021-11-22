@@ -45,8 +45,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.1956472, y: 1.7726822, z: 0.91906697}
-  m_Center: {x: 0.0019180775, y: 0.87194, z: -0.0031128228}
+  m_Size: {x: 1.1956472, y: 1.6419442, z: 0.76965195}
+  m_Center: {x: 0.0019180775, y: 0.806571, z: -0.015564054}
 --- !u!54 &6301169331313049821
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -76,6 +76,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  playerControllerScript: {fileID: 0}
 --- !u!1 &181668
 GameObject:
   m_ObjectHideFlags: 0
